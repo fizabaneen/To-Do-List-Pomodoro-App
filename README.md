@@ -1,4 +1,4 @@
-# 🌸 FocusFlow — Cozy Pomodoro Timer & Aesthetic Task Manager
+# 🌸 FocusFlow — Cozy Pomodoro Timer & Aesthetic Task Manager  
 
 **FocusFlow** is a modern, cozy, minimalist dark/soft-mode web application inspired by productivity workspaces like LifeAt and Flocus. Built with vanilla HTML5, modern CSS with glassmorphism, and vanilla JavaScript.
 

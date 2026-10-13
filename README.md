@@ -5,7 +5,7 @@
 --- 
     
 ## ✨ Features & Highlights
-
+  
 ### 1. ⏱️ Pomodoro Timer Module
 - **Modes**: Pomodoro (25 min), Short Break (5 min), Long Break (15 min) with custom duration settings.
 - **Circular SVG Progress Ring**: Real-time smooth stroke animation with glowing gradient strokes.
